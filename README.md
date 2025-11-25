@@ -118,10 +118,6 @@ Contributions are welcome! Feel free to:
 
 This project is open-source and available under the MIT License.
 
-## 👤 Author
-
-**Harsh**
-- GitHub: [@harsh2025-sketch](https://github.com/harsh2025-sketch)
 
 ---
 ⭐ If you find this project useful, please consider giving it a star!
