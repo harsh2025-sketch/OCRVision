@@ -41,5 +41,6 @@ Thumbs.db
 sample_frame.jpg
 *.jpg
 *.png
+!readme_header.png
 *.mp4
 *.avi
