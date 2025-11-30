@@ -4,7 +4,7 @@
 
 ## 📋 Overview
 
-**OCRVision** is a powerful Python-based tool that extracts, processes, and summarizes textual information from YouTube videos. It combines video frame extraction, Optical Character Recognition (OCR), and AI-powered text summarization to transform video content into concise, readable summaries.
+**OCRVision** is a Python-based tool that extracts, processes, and summarizes textual information from YouTube videos. It combines video frame extraction, Optical Character Recognition (OCR), and AI-powered text summarization to transform video content into concise, readable summaries.
 
 ## ✨ Features
 
